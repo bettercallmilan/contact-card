@@ -19,6 +19,6 @@ This website serves as a digital business card, providing links to my Instagram,
 To view the website, simply visit [bettercallmilan.github.io](https://bettercallmilan.github.io) in your web browser.
 
 ## License
-This project is open-sourc and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](LICENSE).
 
 ---
